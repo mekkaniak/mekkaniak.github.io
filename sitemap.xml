@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mekkaniak.github.io/categories/</loc>
+    <loc>https://mekkaniak.github.io/posts/my-first-post/</loc>
+    <lastmod>2020-05-18T23:18:02+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mekkaniak.github.io/</loc>
+    <lastmod>2020-05-18T23:18:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mekkaniak.github.io/posts/</loc>
+    <lastmod>2020-05-18T23:18:02+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mekkaniak.github.io/categories/</loc>
   </url>
   
   <url>
